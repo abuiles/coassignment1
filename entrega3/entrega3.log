@@ -1,0 +1,466 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.3.12)  19 MAR 2010 08:18
+entering extended mode
+ %&-line parsing enabled.
+**entrega3.tex
+(./entrega3.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip44
+\f@ncyO@elh=\skip45
+\f@ncyO@erh=\skip46
+\f@ncyO@olh=\skip47
+\f@ncyO@orh=\skip48
+\f@ncyO@elf=\skip49
+\f@ncyO@erf=\skip50
+\f@ncyO@olf=\skip51
+\f@ncyO@orf=\skip52
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen117
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen118
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks16
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks17
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks18
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
+\dth@everypar=\toks25
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+)
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/Tabbing/Tabbing.sty
+Package: Tabbing 1997/12/18 v1.0 Tabbing environment (JPFD)
+)
+(/usr/share/texmf/tex/latex/dblatex/misc/lastpage.sty
+Package: lastpage 1994/06/25 v0.1b LaTeX2e package for refs to last page number
+ (JPG)
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/extramarks.sty
+\@temptokenb=\toks26
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/chngpage.sty
+Package: chngpage 2003/08/10 v1.2 change page layout
+\c@cp@cnt=\count103
+\c@cp@tempcnt=\count104
+)
+(/usr/share/texmf-texlive/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks27
+\SOUL@lasttoken=\toks28
+\SOUL@cmds=\toks29
+\SOUL@buffer=\toks30
+\SOUL@token=\toks31
+\SOUL@spaceskip=\skip59
+\SOUL@ttwidth=\dimen126
+\SOUL@uldp=\dimen127
+\SOUL@ulht=\dimen128
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count105
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks32
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+)
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+No file entrega3.aux.
+\openout1 = `entrega3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+(/usr/share/texmf/tex/context/base/supp-pdf.tex
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen131
+\scratchbox=\box29
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen132
+\MPnumerator=\count110
+\everyMPtoPDFconversion=\toks34
+)
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+ </home/abuiles/jpeg/sumaParte1.jpeg, id=1, 1030.85126pt x 502.87875pt>
+File: /home/abuiles/jpeg/sumaParte1.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/sumaParte1.jpeg>
+</home/abuiles/jpeg/suma2.jpeg, id=2, 495.8525pt x 450.68375pt>
+File: /home/abuiles/jpeg/suma2.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/suma2.jpeg>
+</home/abuiles/jpeg/suma3.jpeg, id=3, 714.67pt x 1023.825pt>
+File: /home/abuiles/jpeg/suma3.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/suma3.jpeg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</home/abuiles/jpeg/resta1.jpeg, id=4, 647.41875pt x 294.09875pt>
+File: /home/abuiles/jpeg/resta1.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/resta1.jpeg>
+</home/abuiles/jpeg/logoeafit.jpg, id=5, 200.75pt x 91.34125pt>
+File: /home/abuiles/jpeg/logoeafit.jpg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/logoeafit.jpg>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 36.48285pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 518.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ </home/abuiles/jpeg/logoeafit.jpg> </home/abuiles/jpeg/sumaParte1.jpeg> </home
+/abuiles/jpeg/suma2.jpeg> </home/abuiles/jpeg/suma3.jpeg> </home/abuiles/jpeg/r
+esta1.jpeg>]
+</home/abuiles/jpeg/resta2.jpeg, id=14, 493.845pt x 460.72125pt>
+File: /home/abuiles/jpeg/resta2.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/resta2.jpeg>
+</home/abuiles/jpeg/resta3.jpeg, id=15, 728.7225pt x 994.71625pt>
+File: /home/abuiles/jpeg/resta3.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/resta3.jpeg>
+</home/abuiles/jpeg/escalar1.jpeg, id=16, 720.6925pt x 353.32pt>
+File: /home/abuiles/jpeg/escalar1.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/escalar1.jpeg>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+</home/abuiles/jpeg/escalar2.jpeg, id=17, 611.28375pt x 453.695pt>
+File: /home/abuiles/jpeg/escalar2.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/escalar2.jpeg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</home/abuiles/jpeg/escalar3.jpeg, id=18, 642.4pt x 1003.75pt>
+File: /home/abuiles/jpeg/escalar3.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/escalar3.jpeg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</home/abuiles/jpeg/multi1.jpeg, id=19, 662.475pt x 341.275pt>
+File: /home/abuiles/jpeg/multi1.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/multi1.jpeg>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+</home/abuiles/jpeg/multi2.jpeg, id=20, 587.19376pt x 441.65pt>
+File: /home/abuiles/jpeg/multi2.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/multi2.jpeg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+</home/abuiles/jpeg/multi3.jpeg, id=21, 630.355pt x 1549.79pt>
+File: /home/abuiles/jpeg/multi3.jpeg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/multi3.jpeg>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: /home/abuiles/jpeg/logoeafit.jpg Graphic file (type jpg)
+<use /home/abuiles/jpeg/logoeafit.jpg>
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 596.
+
+[2 </home/abuiles/jpeg/resta2.jpeg> </home/abuiles/jpeg/resta3.jpeg> </home/abu
+iles/jpeg/escalar1.jpeg> </home/abuiles/jpeg/escalar2.jpeg>]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ³ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 684--733
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 684--733
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: /home/abuiles/jpeg/logoeafit.jpg Graphic file (type jpg)
+
+<use /home/abuiles/jpeg/logoeafit.jpg>
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 739.
+
+[3 </home/abuiles/jpeg/escalar3.jpeg> </home/abuiles/jpeg/multi1.jpeg> </home/a
+builes/jpeg/multi2.jpeg>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 771.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 771.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+
+Underfull \hbox (badness 2119) in paragraph at lines 771--772
+[]\OT1/ptm/m/n/10 [1] $http : / / es . wikipedia . org / wiki / Matriz[](matemt
+ica)$, Vis-i-
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+AED: lastpage setting LastPage
+File: /home/abuiles/jpeg/logoeafit.jpg Graphic file (type jpg)
+ <use /home/abuiles/jpeg/logoeafit.jpg>
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 779.
+
+[4 </home/abuiles/jpeg/multi3.jpeg>] (./entrega3.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3095 strings out of 95086
+ 43495 string characters out of 1183255
+ 95213 words of memory out of 1500000
+ 6222 multiletter control sequences out of 10000+50000
+ 36126 words of font info for 72 fonts, out of 1200000 for 2000
+ 31 hyphenation exceptions out of 8191
+ 30i,15n,43p,521b,317s stack positions out of 5000i,500n,6000p,200000b,5000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
+ve/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/t
+imes/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></u
+sr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on entrega3.pdf (4 pages, 724196 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
