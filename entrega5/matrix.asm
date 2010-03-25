@@ -16,10 +16,6 @@ n: resd  1
 segment .text
    global suma
    global resta
-   extern printf
-
-;;; Suma de matrices 
-
 suma:
    push  ebp
    mov   ebp,esp

@@ -1,6 +1,8 @@
 #include <stdio.h>
-extern void suma ();
-extern void resta ();
+#include <matrix.h>
+
+//extern void suma ();
+//extern void resta ();
 
 void main(){
   int n = 3 ;
