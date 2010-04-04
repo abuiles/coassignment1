@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <matrix.h>
 
-//extern void suma();
-//extern void resta();
-//extern void smultiplicacion();
-/* extern void smultiplicacion(); */
 
 
 
@@ -48,7 +44,7 @@ int main(){
     printf("\n");
   }
 
-  int nc = 10;
+  int nc = 50;
 
   smultiplicacion(n,m,nc,a,*c);
 

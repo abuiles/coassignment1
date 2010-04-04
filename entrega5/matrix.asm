@@ -17,7 +17,7 @@ escalar: resd 1
 
 segment .text
 
-   global suma:
+global suma:
 suma:
    push  ebp
    mov   ebp,esp
@@ -26,18 +26,18 @@ suma:
    mul   dword [numM]
    mov   [n],eax
    mov   ecx,[n]
-   mov   dword eax, [dirMatrizA]
-   mov   dword ebx, [dirMatrizB]
-   mov   dword edx, [dirMatrizRespuesta]
+   mov   dword eax, [dirMatrizA]        ;; Coloca la dirección de la matriz A en eax
+   mov   dword ebx, [dirMatrizB]        ;; Coloca la dirección de la matriz B en ebx
+   mov   dword edx, [dirMatrizRespuesta] ;;Coloca la dirección de la matriz C en edx
 lp:
-   fld   dword [eax]
-   fld   dword [ebx]
-   faddp
-   fstp  dword [edx]
-   add   eax,4
-   add   ebx,4
-   add   edx,4
-   loop  lp
+   fld   dword [eax]                    ;; Carga el valor al que apunta eax a la fpu
+   fld   dword [ebx]                    ;; Carga el valor al que apunta ebx a la fpu
+   faddp                                ;; Suma los dos valores que esta en el top de la pila
+   fstp  dword [edx]                    ;; Copia el valor del tope de la pila a la direccion dada, en este caso la que esta en edx, que es la dir de la matriz respuesta.
+   add   eax,4                          ;; Se mueve a la siguiente posición de A 
+   add   ebx,4                          ;; Se mueve a la siguiente posición de B
+   add   edx,4                          ;; Se mueve a la siguiente posicion de C 
+   loop  lp                             ;; la instruccion loop verifica si ecx es 0, sino va a la etiqueta dada y resta 1 de ecx.
    jmp exit
 
 ;;;;;fin Suma
