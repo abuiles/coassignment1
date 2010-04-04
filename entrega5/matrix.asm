@@ -10,12 +10,12 @@ segment .data
 segment .bss
 aux: resd 1
 aux2: resd 1
-aux3: resq 1
 n: resd  1
 
 segment .text
-   global suma
-   global resta
+
+
+global suma:
 suma:
    push  ebp
    mov   ebp,esp
@@ -40,6 +40,7 @@ lp:
 ;;;;;fin Suma
 
 ;;;;; Resta de Matrices
+global resta:
 resta:
    push  ebp
    mov   ebp,esp

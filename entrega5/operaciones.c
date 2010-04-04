@@ -14,8 +14,8 @@ void main(){
 
   for (int r =0 ; r < n ; r++ ){
     for (int c = 0; c < m; c++){
-      a[r][c] = 3.0;
-      b[r][c] = 1.0;
+      a[r][c] = 3;
+      b[r][c] = 3;
     }
   }
 
