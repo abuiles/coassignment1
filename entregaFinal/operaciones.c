@@ -29,9 +29,9 @@ int main(){
   }
 
 
-  suma (n,m,a,b,*c);
+  int sum = suma (n,m,a,b,*c);
 
-  printf("suma\n");
+  printf("suma %i\n",sum);
 
   for (int r =0 ; r < n ; r++ ){
     for (int cr = 0; cr< m; cr++){
@@ -42,10 +42,10 @@ int main(){
   }
 
 
-  resta (n,m,a,b,*c);
+  int res = resta (n,m,a,b,*c);
 
   printf("\n");
-  printf("resta\n");
+  printf("resta %i\n",res);
 
 
   for (int r =0 ; r < n ; r++ ){
@@ -57,10 +57,10 @@ int main(){
 
   int nc = 50;
 
-  smultiplicacion(n,m,nc,a,*c);
+  int rs = smultiplicacion(n,m,nc,a,*c);
 
   printf("\n");
-  printf("multiplicación por escalar\n");
+  printf("multiplicación por escalar %i\n",rs);
   
   for (int r =0 ; r < n ; r++ ){
     for (int cr = 0; cr< m; cr++){
@@ -69,16 +69,21 @@ int main(){
     printf("\n");
   }
 
-  multiplicacion(n,m,m,m2,a,d,e);
-
+  int r = multiplicacion(n,m,6,m2,a,d,e);
   printf("\n");
-  printf("multiplicación\n");
-  
-  for (int r =0 ; r < n ; r++ ){
-    for (int cr = 0; cr< m2; cr++){
-      printf("%f ",e[r][cr]);
-    }
+
+  if (r == 0) {
     printf("\n");
+    printf("multiplicación %i\n",r);
+  
+    for (int r =0 ; r < n ; r++ ){
+      for (int cr = 0; cr< m2; cr++){
+        printf("%f ",e[r][cr]);
+      }
+      printf("\n");
+    }
+  }else{
+    printf("No son iguales n y m %i\n",r);
   }
 
 

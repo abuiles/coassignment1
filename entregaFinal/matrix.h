@@ -1,4 +1,4 @@
-extern float suma();
-extern float resta();
-extern smultiplicacion();
-extern multiplicacion();
+extern int suma();
+extern int resta();
+extern int smultiplicacion();
+extern int multiplicacion();

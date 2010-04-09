@@ -132,6 +132,10 @@ multiplicacion:
    mov   dword eax,[numBM]
    mov   dword[m2m],eax
 
+   mov   eax,[m1m]
+   cmp   eax,[m2n]
+   jne   error
+
    mov   dword eax,[dirMA]
    mov   dword[m1],eax
 
@@ -219,6 +223,13 @@ inclp2:
    jmp   lp2
 ;;;;; fin multiplicacion
 
+error:
+   mov dword eax,-1
+   leave
+   ret
+
+
 exit:
+   mov   dword eax,0
    leave
    ret
